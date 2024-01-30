@@ -1,2 +1,3 @@
 # git-demo
-this is my second repo
+this is my second repo.
+author subhan
